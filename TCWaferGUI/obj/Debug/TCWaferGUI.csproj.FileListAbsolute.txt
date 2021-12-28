@@ -1,0 +1,18 @@
+C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI\TCWaferGUI\bin\Debug\TCWaferGUI.exe.config
+C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI\TCWaferGUI\bin\Debug\TCWaferGUI.exe
+C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI\TCWaferGUI\bin\Debug\TCWaferGUI.pdb
+C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI\TCWaferGUI\obj\Debug\TCWaferGUI.csprojResolveAssemblyReference.cache
+C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI\TCWaferGUI\obj\Debug\TCWaferGUI.Form1.resources
+C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI\TCWaferGUI\obj\Debug\TCWaferGUI.Properties.Resources.resources
+C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI\TCWaferGUI\obj\Debug\TCWaferGUI.csproj.GenerateResource.Cache
+C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI\TCWaferGUI\obj\Debug\TCWaferGUI.exe
+C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI\TCWaferGUI\obj\Debug\TCWaferGUI.pdb
+C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\bin\Debug\TCWaferGUI.exe.config
+C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\bin\Debug\TCWaferGUI.exe
+C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\bin\Debug\TCWaferGUI.pdb
+C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\obj\Debug\TCWaferGUI.csprojResolveAssemblyReference.cache
+C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\obj\Debug\TCWaferGUI.Form1.resources
+C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\obj\Debug\TCWaferGUI.Properties.Resources.resources
+C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\obj\Debug\TCWaferGUI.csproj.GenerateResource.Cache
+C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\obj\Debug\TCWaferGUI.exe
+C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\obj\Debug\TCWaferGUI.pdb
