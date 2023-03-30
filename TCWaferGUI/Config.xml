@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<TCWaferAnalyzer>
+
+    <!-- TC 8 version config -->
+    <TC8_V1>
+        <Version>TC Wafer Analyzer - TC8V1</Version>
+        <TC>
+          #1,50,450
+          #2,150,150
+          #3,300,150
+          #4,300,300
+          #5,300,450
+          #6,450,150
+          #7,150,450
+          #8,450,450
+        </TC>
+    </TC8_V1>
+    <TC2_V1>
+        <Version>TC Wafer Analyzer - TC2V1</Version>
+        <TC>
+          #1,100,300
+          #2,500,300
+        </TC>
+    </TC2_V1>
+
+
+</TCWaferAnalyzer>

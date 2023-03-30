@@ -16,3 +16,14 @@ C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWafe
 C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\obj\Debug\TCWaferGUI.csproj.GenerateResource.Cache
 C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\obj\Debug\TCWaferGUI.exe
 C:\Users\Games\Desktop\Work\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\obj\Debug\TCWaferGUI.pdb
+C:\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\bin\Debug\TCWaferGUI.exe.config
+C:\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\bin\Debug\TCWaferGUI.exe
+C:\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\bin\Debug\TCWaferGUI.pdb
+C:\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\obj\Debug\TCWaferGUI.csproj.AssemblyReference.cache
+C:\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\obj\Debug\TCWaferGUI.csproj.SuggestedBindingRedirects.cache
+C:\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\obj\Debug\TCWaferGUI.Form1.resources
+C:\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\obj\Debug\TCWaferGUI.Properties.Resources.resources
+C:\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\obj\Debug\TCWaferGUI.csproj.GenerateResource.cache
+C:\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\obj\Debug\TCWaferGUI.csproj.CoreCompileInputs.cache
+C:\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\obj\Debug\TCWaferGUI.exe
+C:\Swiss Ranks\Projects\TC Wafer\TCWaferGUI - V2\TCWaferGUI\obj\Debug\TCWaferGUI.pdb
